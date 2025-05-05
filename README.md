@@ -1,16 +1,16 @@
-## Hi there 👋
+# Merhaba, Ben Tarık! 👋
 
-<!--
-**tarkakcaa/tarkakcaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Yeteneklerim
+- **Programlama Dilleri:** Python,Delphi, C#
+- **Frontend:** HTML, CSS
+- **Backend:** Node.js, Django
+- **Veritabanı:** Oracle SQL
+- **Araçlar:** Git, Docker, VS Code
 
-Here are some ideas to get you started:
+## 🌱 Şu An Öğrendiklerim
+- TypeScript
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Bana Ulaşın
+- LinkedIn: [LinkedIn Profil Linkin]
+- Twitter: [Twitter Handle'ın]
